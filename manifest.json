@@ -1,7 +1,7 @@
 {
     "name": "math_app",
     "short_name": "math_app",
-    "start_url": ".",
+    "start_url": "./math_app_test/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
